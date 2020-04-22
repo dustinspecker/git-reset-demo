@@ -1,4 +1,4 @@
-# cool project
+# the cool project
 
 here's how to use the cool project
 
